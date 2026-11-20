@@ -1,0 +1,88 @@
+{
+    "editor.defaultFormatter": "esbenp.prettier-vscode",
+    "[javascript]": {
+        "editor.defaultFormatter": "esbenp.prettier-vscode",
+        "editor.formatOnSave": true
+    },
+    "[html]": {
+        "editor.defaultFormatter": "esbenp.prettier-vscode",
+        "editor.formatOnSave": true
+    },
+    "[css]": {
+        "editor.defaultFormatter": "esbenp.prettier-vscode",
+        "editor.formatOnSave": true
+    },
+    "workbench.editor.empty.hint": "hidden",
+    "liveServer.settings.donotShowInfoMsg": true,
+    "liveServer.settings.donotVerifyTags": true,
+    "workbench.iconTheme": "material-icon-theme",
+    "workbench.colorTheme": "Theme Darker",
+
+    "editor.fontFamily": "'JetBrains Mono', monospace",
+    "editor.fontSize": 14,
+    "editor.lineHeight": 1.65,
+    "editor.fontLigatures": true,
+    "terminal.integrated.fontFamily": "'JetBrains Mono', monospace",
+    "terminal.integrated.fontSize": 13,
+
+    "editor.cursorBlinking": "phase",
+    "editor.cursorSmoothCaretAnimation": "on",
+    "editor.cursorStyle": "line",
+    "editor.cursorWidth": 2,
+    "editor.renderLineHighlight": "all",
+    "editor.renderLineHighlightOnlyWhenFocus": false,
+    "editor.smoothScrolling": true,
+    "workbench.list.smoothScrolling": true,
+    "editor.roundedSelection": true,
+    "editor.stickyScroll.enabled": false,
+    "editor.minimap.enabled": false,
+    "breadcrumbs.enabled": false,
+    "workbench.layoutControl.enabled": false,
+    "editor.guides.highlightActiveIndentation": "always",
+    "editor.bracketPairColorization.enabled": true,
+
+    "workbench.colorCustomizations": {
+        "editor.background": "#161413",
+        "sideBar.background": "#131110",
+        "sideBarSectionHeader.background": "#131110",
+        "activityBar.background": "#100e0d",
+        "titleBar.activeBackground": "#100e0d",
+        "titleBar.inactiveBackground": "#100e0d",
+        "statusBar.background": "#100e0d",
+        "statusBar.foreground": "#9e948e",
+        "statusBar.debuggingBackground": "#ff8c42",
+        "statusBar.debuggingForeground": "#100e0d",
+        "editorGroupHeader.tabsBackground": "#131110",
+        "tab.inactiveBackground": "#131110",
+        "tab.activeBackground": "#231c18",
+        "tab.border": "#131110",
+        "panel.background": "#131110",
+        "terminal.background": "#131110",
+        "terminalCursor.foreground": "#ff8c42",
+        "editorCursor.foreground": "#ff8c42",
+        "editor.lineHighlightBackground": "#1f1b19",
+        "editor.lineHighlightBorder": "#292320",
+        "editorLineNumber.foreground": "#6b625c",
+        "editorLineNumber.activeForeground": "#ff8c42",
+        "editor.selectionBackground": "#ff8c422c",
+        "editor.selectionHighlightBackground": "#ff8c4214",
+        "editorIndentGuide.background1": "#24201e",
+        "editorIndentGuide.activeBackground1": "#ff8c4280",
+        "list.activeSelectionBackground": "#29201a",
+        "list.activeSelectionForeground": "#fff6f0",
+        "list.hoverBackground": "#1f1b19",
+        "focusBorder": "#ff8c4260",
+        "panel.border": "#221e1c",
+        "sideBar.border": "#1f1b19",
+        "activityBar.border": "#1f1b19",
+        "statusBar.border": "#1f1b19",
+        "titleBar.border": "#1f1b19",
+        "editorBracketHighlight.foreground1": "#ff8c42",
+        "editorBracketHighlight.foreground2": "#ffb77a",
+        "editorBracketHighlight.foreground3": "#e06c3b"
+    },
+
+    "vscode_custom_css.imports": [
+        "file:///C:/Users/%D0%A8%D0%BA%D0%BE%D0%BB%D0%B0/AppData/Local/Programs/Microsoft%20VS%20Code/custom.css"
+    ]
+}
